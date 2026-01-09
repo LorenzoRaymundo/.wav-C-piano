@@ -1,4 +1,4 @@
-#🎹 .wav-C-piano
+# 🎹 .wav-C-piano
 Code for the .wav exercise project of my 3rd grade class.
 
 ## What is consists of?
