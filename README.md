@@ -11,3 +11,5 @@ It basically contains 4 options:
 4. Play piano with the keyboard (the coolest)
 
 To play the piano, I made the program to generate all 7 musical notes trought a sine wave in a standard "la" reference frequency of 440hz. I also added a decayment euler equation to simulate the volume being lowered down to the 4sec of a string musical instrument like the piano.
+
+<img width="642" height="382" alt="image" src="https://github.com/user-attachments/assets/a999b4e6-9245-4447-a92d-adf2502b91f7" />
